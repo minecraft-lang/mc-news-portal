@@ -1,0 +1,7 @@
+{
+  "domain": "https://mc-pcl-news.pages.dev",
+  "title": "MC PCL 新闻站 | 我的世界版本更新",
+  "desc": "PCL 启动器专属 Minecraft 新闻主页，聚合我的世界 Java 版与基岩版版本更新、快照预览、官方公告，支持 PCL 联网更新订阅。",
+  "keywords": ["PCL 新闻主页", "我的世界版本更新", "Minecraft Java版快照", "MC 官方公告", "我的世界游戏新闻", "PCL 启动器新闻", "MC 快照", "我的世界更新", "Minecraft 新闻", "PCL 主页"],
+  "repo_url": "https://github.com/minecraft-lang/mc-news-portal"
+}
